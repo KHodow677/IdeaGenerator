@@ -1,5 +1,5 @@
 import RandomWordGen
-import pygame, Button
+import pygame
 import os
 
 pygame.init()

@@ -8,15 +8,7 @@ black = (0, 0, 0)
 white = (255, 255, 255)
 red = (255, 0, 0)
 lightRed = (200, 0, 0)
-green = (0, 255, 0)
-lightGreen = (50, 205, 50)
-blue = (0, 0, 255)
-lightBlue = (0, 191, 200)
-purple = (128, 0, 128)
-orchid = (186, 85, 211)
-yellow = (255, 255, 0)
 gold = (255, 215, 0)
-turquoise = (0, 168, 243)
 lightOrange = (255, 165, 0)
 orange = (252, 113, 7)
 
@@ -57,7 +49,6 @@ def button(msg, b_color, b_color_active, b_x, b_y, b_length, b_height, action="N
             elif action == "Quit":
                 pygame.quit()
                 quit()
-            
     else:
         pygame.draw.rect(window, b_color, (b_x, b_y, b_length, b_height))
     text(msg, color_text, (b_x + b_length/2), (b_y + b_height/2), b_length, b_height)

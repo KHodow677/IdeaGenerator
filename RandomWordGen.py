@@ -27,6 +27,3 @@ class RandomWordGen():
     def RandomLine(self, fileName):
         line = random.choice(open(fileName).readlines()).strip()
         return line
-
-randomthing = RandomWordGen()
-print(randomthing.idea)

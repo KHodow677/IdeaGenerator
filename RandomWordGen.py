@@ -1,4 +1,4 @@
-import random, os
+import random
 
 class RandomWordGen():
     def __init__(self):

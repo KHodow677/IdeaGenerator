@@ -6,7 +6,7 @@ Run the file IdeaGen.py and click "Generate" to get your game idea
 
 ![alt text](https://github.com/KHodow677/IdeaGenerator/blob/main/Screenshots/IdeaGenerator.PNG?raw=true)
 
-# License
+# License Info
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or

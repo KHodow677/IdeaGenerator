@@ -18,7 +18,7 @@ clock = pygame.time.Clock()
 
 small_font = pygame.font.SysFont("Calibri", 18)
 button_font = pygame.font.SysFont("Calibri", 24)
-medium_font = pygame.font.SysFont("Calibri", 50)
+medium_font = pygame.font.SysFont("Calibri", 50, bold = True)
 large_font = pygame.font.SysFont("Calibri", 60, bold=True)
 
 def text_objects(msg, color, size="small"):

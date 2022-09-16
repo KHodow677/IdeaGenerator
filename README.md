@@ -2,8 +2,7 @@
 Simple python program that grabs a verb, adjective, and noun to form a game idea.
 
 # Dependencies
-Python 3
-Pygame
+Python 3, Pygame
 
 # How to Run
 Run the file IdeaGen.py and click "Generate" to get your game idea

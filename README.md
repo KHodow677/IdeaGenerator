@@ -3,4 +3,4 @@ Simple python program that grabs a verb, adjective, and noun to form a game idea
 
 # How to Run
 Run the file IdeaGen.py and click "Generate" to get your game idea
-![Employee data](/repository/assets/IdeaGenerator.png?raw=true "Employee Data title")
+![Employee data](/repository/Screenshots/IdeaGenerator.png?raw=true "Employee Data title")

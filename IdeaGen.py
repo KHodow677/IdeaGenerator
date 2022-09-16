@@ -1,5 +1,5 @@
-import RandomWordGen
-import pygame
+import Assets.RandomWordGen as RandomWordGen
+import pygame, sys
 
 pygame.init()
 
@@ -47,7 +47,7 @@ def button(msg, b_color, b_color_active, b_x, b_y, b_length, b_height, action="N
                 main(randomGen.idea)
             elif action == "Quit":
                 pygame.quit()
-                quit()
+                sys.exit()
     else:
         pygame.draw.rect(window, b_color, (b_x, b_y, b_length, b_height))
     text(msg, color_text, (b_x + b_length/2), (b_y + b_height/2), b_length, b_height)
@@ -71,7 +71,7 @@ def main(idea = ""):
         pygame.display.update()
 
     pygame.quit()
-    quit()
+    sys.exit()
 
 if __name__ == "__main__":
     main()

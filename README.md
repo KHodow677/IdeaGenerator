@@ -5,7 +5,11 @@ Simple python program that grabs a verb, adjective, and noun to form a game idea
 Python 3, Pygame
 
 # How to Run
-Run the file IdeaGen.exe or IdeaGen.py (if python 3 installed) and click "Generate" to get your game idea
+Run the file IdeaGen.exe  
+Or run IdeaGen.py (if python 3 and pygame installed)  
+  
+Click "Generate" to get your game idea  
+Click "Quit" to exit application  
 
 ![alt text](https://github.com/KHodow677/IdeaGenerator/blob/main/Assets/Screenshots/IdeaGenerator.PNG?raw=true)
 

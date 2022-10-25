@@ -11,6 +11,7 @@ Or run IdeaGen.py (if python 3 and pygame installed)
 Click "Generate" to get your game idea  
 Click "Quit" to exit application  
 
+# Screenshot
 ![alt text](https://github.com/KHodow677/IdeaGenerator/blob/main/Assets/Screenshots/IdeaGenerator.PNG?raw=true)
 
 # License Info
